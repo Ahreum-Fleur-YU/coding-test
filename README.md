@@ -1,2 +1,1 @@
-# mathematical-thinking
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+수학을 좋아하는 기획자가 백준 코딩 테스트 푸는 공간 ;-)
